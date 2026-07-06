@@ -61,7 +61,7 @@ class Program
         }
             
         //Print grade
-        Console.WriteLine($"Your grade is: {letterGrade}");
+        Console.WriteLine($"Your grade is: {letterGrade}{sign}");
 
         //Pass/fail message
         if (percentage >= 70)
