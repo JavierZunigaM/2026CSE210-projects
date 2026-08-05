@@ -45,6 +45,11 @@ class Program
                     break;
 
                 case "4":
+                    
+                    Console.WriteLine("Thank you for using the Mindfulness Program. Goodbye!");
+                    Console.WriteLine("Remember to take a moment for yourself today.");
+                    Console.WriteLine("Have a great day!");
+    
                     running = false;
                     break;
 
